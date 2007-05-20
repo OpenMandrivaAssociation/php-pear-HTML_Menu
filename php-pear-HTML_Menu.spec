@@ -5,7 +5,7 @@
 
 Summary:	%{_pearname} - generates HTML Menu from multidimensional hashes
 Name:		php-pear-%{_pearname}
-Version:	2.1.3
+Version:	2.1.4
 Release:	%mkrel 1
 License:	PHP License
 Group:		Development/PHP
