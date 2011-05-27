@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	2.1.4
-Release:	%mkrel 6
+Release:	%mkrel 7
 Summary:	Generates HTML Menu from multidimensional hashes
 License:	PHP License
 Group:		Development/PHP
